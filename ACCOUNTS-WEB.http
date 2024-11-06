@@ -1,0 +1,6 @@
+@ACCOUNTS_WEB_HostAddress = http://localhost:5031
+
+GET {{ACCOUNTS_WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
